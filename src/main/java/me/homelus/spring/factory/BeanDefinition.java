@@ -1,4 +1,4 @@
-package me.homelus.spring.bean;
+package me.homelus.spring.factory;
 
 /**
  * @author homelus

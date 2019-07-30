@@ -1,4 +1,4 @@
-package me.homelus.spring.bean;
+package me.homelus.spring.factory;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
